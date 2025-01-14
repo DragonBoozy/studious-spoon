@@ -1,2 +1,2 @@
 # Gantry1
-Scratch built 3D printer designined for accuracy
+Scratch built 3D printer designed for accuracy - not speed
